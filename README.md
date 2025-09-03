@@ -1,0 +1,1 @@
+a collection of all codes ive (and will write) written on my current degree (software engineering at puc minas). i created a main folder for the current class im taking (aeds1), and here i created others for the assignments and lists the professor gives to us
