@@ -1,0 +1,1 @@
+folder reserved to keep the assignments passed directly by the professor. the main part, the lists, contain the codes of all proposed activities, named by the first two digits, by the respective list of the activity. '01' for list 1, '02' for list 2 and so on. the folders also contain the pdf of the activity lists
