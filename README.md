@@ -1,1 +1,1 @@
-a collection of all codes ive (and will write) written on my current degree (software engineering at puc minas). i created a main folder for the current class im taking (aeds1), and here i created others for the assignments and lists the professor gives to us
+repo made to store (and kinda document) all the code i write during my software engineering degree. there’ll be folders for every programming-focused class, and inside them subfolders with exercises from the professor, stuff we see in class, and maybe some extra things here and there
