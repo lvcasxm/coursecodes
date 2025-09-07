@@ -3,10 +3,8 @@
 
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
-
-    int x = 0;
     int i = 0;
+    int x = 0;
 
     printf("X: ");
     scanf("%d", &x);
@@ -15,11 +13,6 @@ int main()
     {
         i++;
         printf("%d\n", i);
-
-        if (i == x)
-        {
-            break;
-        }
     }
 
     return 0;
