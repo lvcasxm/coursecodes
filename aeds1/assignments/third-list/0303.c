@@ -12,14 +12,14 @@ int main()
     {
         printf("Números: ");
         scanf("%d", &x);
-        x++;
 
-        if (x % 3 == 0)
+        if (x != 0 && x % 3 == 0)
         {
-            i + 1;
             i++;
         }   
-    } while (x != 0)
+    } while (x != 0);
+
+    printf("%d\n", i);
 
     return 0;
 }
