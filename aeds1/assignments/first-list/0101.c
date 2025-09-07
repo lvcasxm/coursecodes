@@ -1,30 +1,30 @@
 #include <stdio.h>
-#include <locale.h>
 
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
+    setlocale(LC_ALL,"Portuguese");
 
-    int a = 0, b = 0;
-    int soma = 0;
+    int x = 0;
+    int y = 0;
+    int sum = 0;
 
-    printf("Número 1: ");
-    scanf("%d", &a);
+    printf("X: ");
+    scanf("%d", &x);
 
-    printf("Número 2: ");
-    scanf("%d", &b);
+    printf("Y: ");
+    scanf("%d", &y);
 
-    soma = a + b;
+    sum = x + y;
 
-    if (soma >= 10)
+    if (sum >= 10)
     {
-        soma += 5;
-    } else 
+        sum += 5;
+    } else
     {
-        soma += 7;
+        sum += 7;
     }
 
-    printf("O resultado é: %d", soma);
+    printf("%d\n", sum);
 
     return 0;
 }
