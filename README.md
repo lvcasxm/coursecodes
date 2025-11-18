@@ -1,3 +1,1 @@
-repo made to store (and kinda document) all the code i write during my software engineering degree. there’ll be folders for every programming-focused class, and inside them subfolders with exercises from the professor, stuff we see in class, and maybe some extra things here and there
-
-test
+repo made to store all the code i write during my software engineering degree. there’ll be folders for every programming-focused class, and inside them subfolders with exercises from the professor, stuff we see in class, and maybe some extra things here and there
